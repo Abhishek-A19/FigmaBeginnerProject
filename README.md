@@ -2,8 +2,7 @@
 Figma 
 # Project Title: Creating a Login Screen Like Instagram with Animations, Theme Switcher, and Prototyping for Testing
 # Description
-    This project involves designing and developing a modern, visually appealing login screen inspired by Instagram's clean and user-friendly interface. 
-    The goal is to recreate a similar login experience with added features like smooth animations, a theme switcher (light and dark mode), and the use of prototyping tools to test the flow and usability of the design.
+    This project involves designing and developing a modern, visually appealing login screen inspired by Instagram's clean and user-friendly interface. The goal is to recreate a similar login experience with added features like smooth animations, a theme switcher (light and dark mode), and the use of prototyping tools to test the flow and usability of the design.
 
 # Key Features
 1) Login Screen Design: 
