@@ -23,4 +23,4 @@ By the end of the project, a fully interactive and user-tested prototype will be
 # Prototype
 https://www.figma.com/proto/uocblGmgWU0HPojHGHiojn/Udemy-Class-Project-02?page-id=0%3A1&node-id=6-5&p=f&viewport=347%2C536%2C0.34&t=e4KkIJid78qxK75e-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=6%3A5
 
-!https://Page1-UdemyClassProject02-Figma2024-08-1006-10-51-ezgif.com-video-to-gif-converter
+<img src="D:\UX Design Courses\UDEMY ux design course\Udemy project 02" alt="FBP" />
